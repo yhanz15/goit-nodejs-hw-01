@@ -10,7 +10,7 @@
     "start:dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ian To-ong",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
