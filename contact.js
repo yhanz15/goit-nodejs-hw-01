@@ -44,7 +44,7 @@ export async function removeContact(contactId) {
 }
 
 export async function addContact(name, email, phone) {
-  // ...твій код. Повертає об'єкт доданого контакту.
+  
   try {
     const contacts = await listContacts();
     const newContact = {
